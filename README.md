@@ -13,6 +13,7 @@
 ``` shell
 pip install poerty
 poery install
+poetry shell
 ```
 
 ### Запуск проекта
